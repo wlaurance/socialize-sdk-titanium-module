@@ -1,0 +1,17 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.1
+description: My module
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2011 by Your Company
+
+
+# these should not be edited
+name: socialize
+moduleid: com.getsocialize
+guid: 40d110e9-0264-4139-8486-c1c76d82205a
+platform: iphone
+minsdk: 1.7.6.v20111114104114

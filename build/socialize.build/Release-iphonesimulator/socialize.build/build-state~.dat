@@ -1,0 +1,147 @@
+Tsocialize
+v4
+r1
+cCheck dependencies
+cProcessPCH /var/folders/pn/6hdmr04n1_s_knfl0p8950hc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComGetsocialize_Prefix-aiqrttjwuipuiwgbtmhjuhvurofq/ComGetsocialize_Prefix.pch.pth ComGetsocialize_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/socialize.build/Release-iphonesimulator/socialize.build/Objects-normal/i386/ComGetsocializeModule.o "/Users/mdpauley/Documents/Titanium Modules/socialize/Classes/ComGetsocializeModule.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/socialize.build/Release-iphonesimulator/socialize.build/Objects-normal/i386/ComGetsocializeModuleAssets.o "/Users/mdpauley/Documents/Titanium Modules/socialize/Classes/ComGetsocializeModuleAssets.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool "/Users/mdpauley/Documents/Titanium Modules/socialize/build/Release-iphonesimulator/libComGetsocialize.a" normal i386
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk
+c000000004EC327110000000000000110
+t1321412369
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004E72F1CC0000000000245480
+t1316155852
+s2380928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004E78059F00000000000859A0
+t1316488607
+s547232
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004E72F2960000000000353830
+t1316156054
+s3487792
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004E72F28F0000000000001534
+t1316156047
+s5428
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004E7807EF00000000000D89E0
+t1316489199
+s887264
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+c000000004E78081300000000000CA7C0
+t1316489235
+s829376
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004E72F69C00000000001A9D20
+t1316157084
+s1744160
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004E7806AB00000000008F7390
+t1316488875
+s9401232
+
+N/Users/mdpauley/Documents/Titanium Modules/socialize/Classes/ComGetsocializeModule.m
+c000000004EDEC6390000000000000951
+t1323222585
+s2385
+
+N/Users/mdpauley/Documents/Titanium Modules/socialize/Classes/ComGetsocializeModuleAssets.m
+c000000004EDEC3B1000000000000010E
+t1323221937
+s270
+
+N/Users/mdpauley/Documents/Titanium Modules/socialize/ComGetsocialize_Prefix.pch
+c000000004EDEC3B1000000000000003E
+t1323221937
+s62
+i<Foundation/Foundation.h>
+
+N/Users/mdpauley/Documents/Titanium Modules/socialize/build/Release-iphonesimulator/libComGetsocialize.a
+t2
+s0
+
+N/Users/mdpauley/Documents/Titanium Modules/socialize/build/socialize.build/Release-iphonesimulator/socialize.build/Objects-normal/i386/ComGetsocialize.LinkFileList
+c000000004EDEC7870000000000000144
+t1323222919
+s324
+
+N/Users/mdpauley/Documents/Titanium Modules/socialize/build/socialize.build/Release-iphonesimulator/socialize.build/Objects-normal/i386/ComGetsocializeModule.o
+t2
+s0
+
+N/Users/mdpauley/Documents/Titanium Modules/socialize/build/socialize.build/Release-iphonesimulator/socialize.build/Objects-normal/i386/ComGetsocializeModuleAssets.o
+t2
+s0
+
+N/var/folders/pn/6hdmr04n1_s_knfl0p8950hc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComGetsocialize_Prefix-aiqrttjwuipuiwgbtmhjuhvurofq/ComGetsocialize_Prefix.pch.pth
+t1323222598
+s2444972
+
+CCheck dependencies
+r0
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies74b76707ff8eb441^37c77907ff8eb441^---0#1#0#--18"Check dependencies36"135E9FBD-EE79-4C62-914C-597AEEF07EA6-
+
+CCompileC build/socialize.build/Release-iphonesimulator/socialize.build/Objects-normal/i386/ComGetsocializeModule.o "/Users/mdpauley/Documents/Titanium Modules/socialize/Classes/ComGetsocializeModule.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s344915719.489944
+e344915719.590045
+r1
+xCompileC
+xbuild/socialize.build/Release-iphonesimulator/socialize.build/Objects-normal/i386/ComGetsocializeModule.o
+x/Users/mdpauley/Documents/Titanium Modules/socialize/Classes/ComGetsocializeModule.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/mdpauley/Documents/Titanium Modules/socialize/Classes/ComGetsocializeModule.m:7:
+oIn file included from /Users/mdpauley/Documents/Titanium Modules/socialize/Classes/ComGetsocializeModule.h:7:
+oIn file included from /Users/mdpauley/Library/Application Support/Titanium/mobilesdk/osx/1.7.6.v20111114104114/iphone/include/TiModule.h:7:
+oIn file included from /Users/mdpauley/Library/Application Support/Titanium/mobilesdk/osx/1.7.6.v20111114104114/iphone/include/TiUtils.h:9:
+o/Users/mdpauley/Library/Application Support/Titanium/mobilesdk/osx/1.7.6.v20111114104114/iphone/include/TiDimension.h:110:10: warning: enumeration values 'TiDimensionTypeUndefined' and 'TiDimensionTypeAuto' not handled in switch [-Wswitch-enum,3]
+o         switch (dimension.type)
+o                 ^
+o/Users/mdpauley/Library/Application Support/Titanium/mobilesdk/osx/1.7.6.v20111114104114/iphone/include/TiDimension.h:134:10: warning: enumeration values 'TiDimensionTypeUndefined' and 'TiDimensionTypeAuto' not handled in switch [-Wswitch-enum,3]
+o         switch (dimension.type)
+o                 ^
+o2 warnings generated.
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/mdpauley/Documents/Titanium Modules/socialize/Classes/ComGetsocializeModule.mf19c7d07ff8eb441^ed0c9707ff8eb441^-1119"In file included from /Users/mdpauley/Library/Application Support/Titanium/mobilesdk/osx/1.7.6.v20111114104114/iphone/include/TiUtils.h:9:In file included from /Users/mdpauley/Library/Application Support/Titanium/mobilesdk/osx/1.7.6.v20111114104114/iphone/include/TiModule.h:7:In file included from /Users/mdpauley/Documents/Titanium Modules/socialize/Classes/ComGetsocializeModule.h:7:In file included from /Users/mdpauley/Documents/Titanium Modules/socialize/Classes/ComGetsocializeModule.m:7:/Users/mdpauley/Library/Application Support/Titanium/mobilesdk/osx/1.7.6.v20111114104114/iphone/include/TiDimension.h:110:10: warning: enumeration values 'TiDimensionTypeUndefined' and 'TiDimensionTypeAuto' not handled in switch [-Wswitch-enum,3]         switch (dimension.type)                 ^/Users/mdpauley/Library/Application Support/Titanium/mobilesdk/osx/1.7.6.v20111114104114/iphone/include/TiDimension.h:134:10: warning: enumeration values 'TiDimensionTypeUndefined' and 'TiDimensionTypeAuto' not handled in switch [-Wswitch-enum,3]         switch (dimension.type)                 ^2 warnings generated.2(21%IDEActivityLogMessage2@93"Enumeration values 'TiDimensionTypeUndefined' and 'TiDimensionTypeAuto' not handled in switch-344915719#499#247#5(36%IDEActivityLogHeaderInclusionMessage3@138"In file included from /Users/mdpauley/Library/Application Support/Titanium/mobilesdk/osx/1.7.6.v20111114104114/iphone/include/TiUtils.h:9:-344915719#0#139#-0#-23%DVTTextDocumentLocation4@131"file://localhost/Users/mdpauley/Library/Application%20Support/Titanium/mobilesdk/osx/1.7.6.v20111114104114/iphone/include/TiUtils.h0000000000000000^8#18446744073709551615#8#18446744073709551615#18446744073709551615#0#---3@139"In file included from /Users/mdpauley/Library/Application Support/Titanium/mobilesdk/osx/1.7.6.v20111114104114/iphone/include/TiModule.h:7:-344915719#139#140#-0#-4@132"file://localhost/Users/mdpauley/Library/Application%20Support/Titanium/mobilesdk/osx/1.7.6.v20111114104114/iphone/include/TiModule.h0000000000000000^6#18446744073709551615#6#18446744073709551615#18446744073709551615#0#---3@109"In file included from /Users/mdpauley/Documents/Titanium Modules/socialize/Classes/ComGetsocializeModule.h:7:-344915719#279#110#-0#-4@102"file://localhost/Users/mdpauley/Documents/Titanium%20Modules/socialize/Classes/ComGetsocializeModule.h0000000000000000^6#18446744073709551615#6#18446744073709551615#18446744073709551615#0#---3@109"In file included from /Users/mdpauley/Documents/Titanium Modules/socialize/Classes/ComGetsocializeModule.m:7:-344915719#389#110#-0#-4@102"file://localhost/Users/mdpauley/Documents/Titanium%20Modules/socialize/Classes/ComGetsocializeModule.m0000000000000000^6#18446744073709551615#6#18446744073709551615#18446744073709551615#0#---2@214"Enumeration values 'TiDimensionTypeUndefined' and 'TiDimensionTypeAuto' not handled in switch in /Users/mdpauley/Library/Application Support/Titanium/mobilesdk/osx/1.7.6.v20111114104114/iphone/include/TiDimension.h-344915719#18446744073709551615#0#-0#-4@135"file://localhost/Users/mdpauley/Library/Application%20Support/Titanium/mobilesdk/osx/1.7.6.v20111114104114/iphone/include/TiDimension.h0000000000000000^109#9#109#9#18446744073709551615#0#---1#-4@135"file://localhost/Users/mdpauley/Library/Application%20Support/Titanium/mobilesdk/osx/1.7.6.v20111114104114/iphone/include/TiDimension.h0000000000000000^109#9#109#9#18446744073709551615#0#14"Semantic Issue--2@93"Enumeration values 'TiDimensionTypeUndefined' and 'TiDimensionTypeAuto' not handled in switch-344915719#798#247#5(3@138"In file included from /Users/mdpauley/Library/Application Support/Titanium/mobilesdk/osx/1.7.6.v20111114104114/iphone/include/TiUtils.h:9:-344915719#18446744073709551615#0#-0#-4@131"file://localhost/Users/mdpauley/Library/Application%20Support/Titanium/mobilesdk/osx/1.7.6.v20111114104114/iphone/include/TiUtils.h0000000000000000^8#18446744073709551615#8#18446744073709551615#18446744073709551615#0#---3@139"In file included from /Users/mdpauley/Library/Application Support/Titanium/mobilesdk/osx/1.7.6.v20111114104114/iphone/include/TiModule.h:7:-344915719#18446744073709551615#0#-0#-4@132"file://localhost/Users/mdpauley/Library/Application%20Support/Titanium/mobilesdk/osx/1.7.6.v20111114104114/iphone/include/TiModule.h0000000000000000^6#18446744073709551615#6#18446744073709551615#18446744073709551615#0#---3@109"In file included from /Users/mdpauley/Documents/Titanium Modules/socialize/Classes/ComGetsocializeModule.h:7:-344915719#18446744073709551615#0#-0#-4@102"file://localhost/Users/mdpauley/Documents/Titanium%20Modules/socialize/Classes/ComGetsocializeModule.h0000000000000000^6#18446744073709551615#6#18446744073709551615#18446744073709551615#0#---3@109"In file included from /Users/mdpauley/Documents/Titanium Modules/socialize/Classes/ComGetsocializeModule.m:7:-344915719#18446744073709551615#0#-0#-4@102"file://localhost/Users/mdpauley/Documents/Titanium%20Modules/socialize/Classes/ComGetsocializeModule.m0000000000000000^6#18446744073709551615#6#18446744073709551615#18446744073709551615#0#---2@214"Enumeration values 'TiDimensionTypeUndefined' and 'TiDimensionTypeAuto' not handled in switch in /Users/mdpauley/Library/Application Support/Titanium/mobilesdk/osx/1.7.6.v20111114104114/iphone/include/TiDimension.h-344915719#18446744073709551615#0#-0#-4@135"file://localhost/Users/mdpauley/Library/Application%20Support/Titanium/mobilesdk/osx/1.7.6.v20111114104114/iphone/include/TiDimension.h0000000000000000^133#9#133#9#18446744073709551615#0#---1#-4@135"file://localhost/Users/mdpauley/Library/Application%20Support/Titanium/mobilesdk/osx/1.7.6.v20111114104114/iphone/include/TiDimension.h0000000000000000^133#9#133#9#18446744073709551615#0#14"Semantic Issue--0#0#0#-19%DVTDocumentLocation5@102"file://localhost/Users/mdpauley/Documents/Titanium%20Modules/socialize/Classes/ComGetsocializeModule.m0000000000000000^3213"CompileC build/socialize.build/Release-iphonesimulator/socialize.build/Objects-normal/i386/ComGetsocializeModule.o Classes/ComGetsocializeModule.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/mdpauley/Documents/Titanium Modules/socialize"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote "/Users/mdpauley/Documents/Titanium Modules/socialize/build/socialize.build/Release-iphonesimulator/socialize.build/ComGetsocialize-generated-files.hmap" "-I/Users/mdpauley/Documents/Titanium Modules/socialize/build/socialize.build/Release-iphonesimulator/socialize.build/ComGetsocialize-own-target-headers.hmap" "-I/Users/mdpauley/Documents/Titanium Modules/socialize/build/socialize.build/Release-iphonesimulator/socialize.build/ComGetsocialize-all-target-headers.hmap" -iquote "/Users/mdpauley/Documents/Titanium Modules/socialize/build/socialize.build/Release-iphonesimulator/socialize.build/ComGetsocialize-project-headers.hmap" "-I/Users/mdpauley/Documents/Titanium Modules/socialize/build/Release-iphonesimulator/include" "-I/Users/mdpauley/Library/Application Support/Titanium/mobilesdk/osx/1.7.6.v20111114104114/iphone/include" "-I/Users/mdpauley/Library/Application Support/Titanium/mobilesdk/osx/1.7.6.v20111114104114/iphone/include/TiCore" "-I/Users/mdpauley/Documents/Titanium Modules/socialize/build/socialize.build/Release-iphonesimulator/socialize.build/DerivedSources/i386" "-I/Users/mdpauley/Documents/Titanium Modules/socialize/build/socialize.build/Release-iphonesimulator/socialize.build/DerivedSources" "-F/Users/mdpauley/Documents/Titanium Modules/socialize/build/Release-iphonesimulator" -include /var/folders/pn/6hdmr04n1_s_knfl0p8950hc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComGetsocialize_Prefix-aiqrttjwuipuiwgbtmhjuhvurofq/ComGetsocialize_Prefix.pch -MMD -MT dependencies -MF "/Users/mdpauley/Documents/Titanium Modules/socialize/build/socialize.build/Release-iphonesimulator/socialize.build/Objects-normal/i386/ComGetsocializeModule.d" -c "/Users/mdpauley/Documents/Titanium Modules/socialize/Classes/ComGetsocializeModule.m" -o "/Users/mdpauley/Documents/Titanium Modules/socialize/build/socialize.build/Release-iphonesimulator/socialize.build/Objects-normal/i386/ComGetsocializeModule.o"36"61FFCC32-6988-4F30-AE50-23B3193A9021-
+
+CCompileC build/socialize.build/Release-iphonesimulator/socialize.build/Objects-normal/i386/ComGetsocializeModuleAssets.o "/Users/mdpauley/Documents/Titanium Modules/socialize/Classes/ComGetsocializeModuleAssets.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s344915719.489944
+e344915719.511851
+r1
+xCompileC
+xbuild/socialize.build/Release-iphonesimulator/socialize.build/Objects-normal/i386/ComGetsocializeModuleAssets.o
+x/Users/mdpauley/Documents/Titanium Modules/socialize/Classes/ComGetsocializeModuleAssets.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/mdpauley/Documents/Titanium Modules/socialize/Classes/ComGetsocializeModuleAssets.md09c7d07ff8eb441^7d078307ff8eb441^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/Users/mdpauley/Documents/Titanium%20Modules/socialize/Classes/ComGetsocializeModuleAssets.m0000000000000000^3243"CompileC build/socialize.build/Release-iphonesimulator/socialize.build/Objects-normal/i386/ComGetsocializeModuleAssets.o Classes/ComGetsocializeModuleAssets.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/mdpauley/Documents/Titanium Modules/socialize"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote "/Users/mdpauley/Documents/Titanium Modules/socialize/build/socialize.build/Release-iphonesimulator/socialize.build/ComGetsocialize-generated-files.hmap" "-I/Users/mdpauley/Documents/Titanium Modules/socialize/build/socialize.build/Release-iphonesimulator/socialize.build/ComGetsocialize-own-target-headers.hmap" "-I/Users/mdpauley/Documents/Titanium Modules/socialize/build/socialize.build/Release-iphonesimulator/socialize.build/ComGetsocialize-all-target-headers.hmap" -iquote "/Users/mdpauley/Documents/Titanium Modules/socialize/build/socialize.build/Release-iphonesimulator/socialize.build/ComGetsocialize-project-headers.hmap" "-I/Users/mdpauley/Documents/Titanium Modules/socialize/build/Release-iphonesimulator/include" "-I/Users/mdpauley/Library/Application Support/Titanium/mobilesdk/osx/1.7.6.v20111114104114/iphone/include" "-I/Users/mdpauley/Library/Application Support/Titanium/mobilesdk/osx/1.7.6.v20111114104114/iphone/include/TiCore" "-I/Users/mdpauley/Documents/Titanium Modules/socialize/build/socialize.build/Release-iphonesimulator/socialize.build/DerivedSources/i386" "-I/Users/mdpauley/Documents/Titanium Modules/socialize/build/socialize.build/Release-iphonesimulator/socialize.build/DerivedSources" "-F/Users/mdpauley/Documents/Titanium Modules/socialize/build/Release-iphonesimulator" -include /var/folders/pn/6hdmr04n1_s_knfl0p8950hc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComGetsocialize_Prefix-aiqrttjwuipuiwgbtmhjuhvurofq/ComGetsocialize_Prefix.pch -MMD -MT dependencies -MF "/Users/mdpauley/Documents/Titanium Modules/socialize/build/socialize.build/Release-iphonesimulator/socialize.build/Objects-normal/i386/ComGetsocializeModuleAssets.d" -c "/Users/mdpauley/Documents/Titanium Modules/socialize/Classes/ComGetsocializeModuleAssets.m" -o "/Users/mdpauley/Documents/Titanium Modules/socialize/build/socialize.build/Release-iphonesimulator/socialize.build/Objects-normal/i386/ComGetsocializeModuleAssets.o"36"15536632-15F1-46E2-B5FD-61AAE754A217-
+
+CLibtool "/Users/mdpauley/Documents/Titanium Modules/socialize/build/Release-iphonesimulator/libComGetsocialize.a" normal i386
+s344915719.597832
+e344915719.603086
+r1
+xLibtool
+x/Users/mdpauley/Documents/Titanium Modules/socialize/build/Release-iphonesimulator/libComGetsocialize.a
+xnormal
+xi386
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool: -dynamic not specified, -all_load invalid
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Libtool build/Release-iphonesimulator/libComGetsocialize.a normal i3863f1f9907ff8eb441^2c649a07ff8eb441^---0#0#0#--1065"Libtool build/Release-iphonesimulator/libComGetsocialize.a normal i386    cd "/Users/mdpauley/Documents/Titanium Modules/socialize"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool -static -arch_only i386 -syslibroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk "-L/Users/mdpauley/Documents/Titanium Modules/socialize/build/Release-iphonesimulator" -filelist "/Users/mdpauley/Documents/Titanium Modules/socialize/build/socialize.build/Release-iphonesimulator/socialize.build/Objects-normal/i386/ComGetsocialize.LinkFileList" -all_load -ObjC -framework UIKit -framework Foundation -framework CoreGraphics -framework QuartzCore -framework MessageUI -framework MapKit -framework CoreLocation -o "/Users/mdpauley/Documents/Titanium Modules/socialize/build/Release-iphonesimulator/libComGetsocialize.a"36"8CAD9B7F-007B-4721-B9A0-B5FA364C1C31-
+
+CProcessPCH /var/folders/pn/6hdmr04n1_s_knfl0p8950hc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComGetsocialize_Prefix-aiqrttjwuipuiwgbtmhjuhvurofq/ComGetsocialize_Prefix.pch.pth ComGetsocialize_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
